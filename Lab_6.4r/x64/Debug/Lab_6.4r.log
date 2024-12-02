@@ -1,0 +1,4 @@
+﻿  Lab_6.4.cpp
+C:\Users\Andrian\source\repos\Lab_6.4r\Lab_6.4r\Lab_6.4.cpp(37,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Andrian\source\repos\Lab_6.4r\Lab_6.4r\Lab_6.4.cpp(39,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Lab_6.4r.vcxproj -> C:\Users\Andrian\source\repos\Lab_6.4r\x64\Debug\Lab_6.4r.exe
